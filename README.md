@@ -1,4 +1,4 @@
-  ![LOGO](https://github.com/AJITHCHANDRA-07/AJITHCHANDRA-07/blob/main/GITIMAGE.png)
+  ![LOGO](https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFpfGVufDB8fDB8fHwx)
 <h1 align="center">Hi ,I'm AJITHCHANDRA
 <h3 align="center">A passionate frontend, Backend developer and Working on AI-based tools has transformed my professional approach by integrating cutting-edge technology from India.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
